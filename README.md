@@ -21,10 +21,15 @@ Spider-PE: A Set of Support Tools to Software Process Enactment (2014)
 Tecnologies:
 
 Java Language (JDK 6.0 needed)
+
 Java Swing
+
 MySQL 5.5
+
 ORM Hibernate
+
 JGraph
+
 iPDF
 
 
