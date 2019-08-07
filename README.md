@@ -17,3 +17,15 @@ Spider-PE: Uma Ferramenta de Apoio à Implementação da Capacidade do MR-MPS N�
 
 Spider-PE: A Set of Support Tools to Software Process Enactment (2014)  
 [International Conference on Software Engineering Advances](https://www.iaria.org/conferences2014/ICSEA14.html) | [Download](http://www.thinkmind.org/download.php?articleid=icsea_2014_20_10_10134)
+
+Tecnologies:
+
+Java Language (JDK 6.0 needed)
+Java Swing
+MySQL 5.5
+ORM Hibernate
+JGraph
+iPDF
+
+
+
